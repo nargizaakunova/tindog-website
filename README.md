@@ -1,2 +1,1 @@
-# tindog-website
-Add files for tindog website
+TinDog Starting Files
