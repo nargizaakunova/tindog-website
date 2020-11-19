@@ -153,12 +153,7 @@ line-height: 1.5;
 #footer{
   background-color: #fff;
 }
-.cta-heading{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 3.5rem;
-  line-height: 1.5;
-  font-weight:900;
-}
+
 .social-icon{
   margin: 20px 10px;
 }
